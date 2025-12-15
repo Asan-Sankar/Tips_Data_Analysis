@@ -26,9 +26,3 @@ pip install -r requirements.txt
 mkdir scripts
 cd scripts
 touch Tips_Data_Analysis.ipynb
-
-# Install Jupyter Notebook
-pip install notebook
-
-# Start Jupyter Notebook
-jupyter notebook
